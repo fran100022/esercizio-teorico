@@ -1,0 +1,9 @@
+Un algoritmo è una serie di istruzioni o passi logici che aiutano a risolvere un problema 
+o compiere un'attività specifica, come un ricettario per cucinare.
+
+Una variabile in un algoritmo è un contenitore che può memorizzare informazioni, 
+come numeri o testo, e può essere usata per manipolare i dati durante l'esecuzione dell'algoritmo.
+
+Undefined e null non sono la stessa cosa. "Undefined" indica che una variabile non ha un valore assegnato,
+mentre "null" è un valore intenzionale assegnato a una variabile per indicare l'assenza di un valore o che è stato 
+volontariamente azzerato.
